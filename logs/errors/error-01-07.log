@@ -1,0 +1,10 @@
+[2019-01-07 15:25:14.737] [ERROR] console - (node:9480) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+[2019-01-07 15:25:14.741] [ERROR] access - PUT /api/install/test-database
+[2019-01-07 15:49:26.485] [ERROR] system - port 443 已被使用
+[2019-01-07 16:28:17.239] [ERROR] system - port 3000 已被使用
+[2019-01-07 16:28:27.388] [ERROR] system - port 3000 已被使用
+[2019-01-07 16:29:57.614] [ERROR] console - (node:10510) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+[2019-01-07 16:39:58.815] [ERROR] access - POST /gettoken
+[2019-01-07 16:40:01.463] [ERROR] access - POST /userInfo
+[2019-01-07 17:00:28.445] [ERROR] console - (node:10696) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+[2019-01-07 17:08:28.092] [ERROR] console - (node:10752) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
