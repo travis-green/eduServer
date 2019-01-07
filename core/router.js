@@ -29,7 +29,14 @@ module.exports = {
         put: 'install.testDatabase'
       }
     },
-
+    //授权登录
+    '/wechatoauth': {
+      get: [100101, 'features.create'],
+    },
+    //获取商品
+    '/getCate': {
+      get: 'goods.current',
+    },
     // 当前用户帐号
     '/account': {
       all: 'account.check',
