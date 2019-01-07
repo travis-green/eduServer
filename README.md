@@ -9,7 +9,7 @@ NoderCMS 使用 Node.js + MongoDB 开发，拥有灵活的内容模型以及完�
 - 后台：[http://demo.nodercms.com/admin](http://demo.nodercms.com/admin)
 - 账号：ghost@nodercms.com
 - 密码：123456
-
+aaaaa
 ## 安装
 
 ```bash
