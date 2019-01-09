@@ -6,7 +6,7 @@
  */
 exports.current = function (req, res) {
     console.log(req.query)
-	if(req.query.cateId == '1'){
+	if(req.query.cateId = '1'){
         console.log('1123');
         let data =  [{
           goods_now_price: "399",
