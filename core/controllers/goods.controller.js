@@ -56,7 +56,11 @@ exports.current = function (req, res) {
           goodstype: "思维方式|性格习惯|动手能力",
           goods_sale_num: '1330',
         }]
-        res.status(200).json(data);
+        res.json({
+            code:0,
+            msg:'ok',
+            data:data
+          })
       } else {
           console.log('3344');
         let data =  [{
